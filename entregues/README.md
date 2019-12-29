@@ -1,0 +1,1 @@
+## Aquest directori conté les solucions als exercicis proposats a cada pla
