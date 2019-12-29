@@ -1,3 +1,6 @@
+```Note: The documentation is in Catalan language```
+
+
 # Tècnic en visió per computador
 Curs de visió per computador per al [SOC](https://serveiocupacio.gencat.cat/ca/soc/el-servei-public-docupacio-de-catalunya_soc/)
 
