@@ -33,3 +33,8 @@ Curs de visió per computador per al [SOC](https://serveiocupacio.gencat.cat/ca/
     * Projecte final de curs
 * Pla 14
     * Segmentació d'instancies: U-NET, Mask R-CNN
+
+## Exercicis i projecte final
+El directori *entregues* conté un altre directori per cada pla, del 2 al 10, on hi ha els exercicis presentats.
+
+El projecte està al directori *Projecte* dins de *entregues*.
