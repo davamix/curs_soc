@@ -1,0 +1,6 @@
+batch_size = 4
+epochs = 40
+learning_rate = 0.01
+optimizer = optim.Adam(model.parameters(), lr=learning_rate)
+scheduler = MultiStepLR(optimizer, [15, 30])
+pretrained="vggface2"

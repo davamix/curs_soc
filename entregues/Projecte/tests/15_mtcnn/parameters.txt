@@ -1,0 +1,12 @@
+batch_size = 4
+epochs = 20
+learning_rate = 0.05
+scheduler = MultiStepLR(optimizer, [5, 10, 15])
+pretrained = none
+
+Transforms:
+transforms.RandomRotation(15),
+transforms.RandomHorizontalFlip(),
+
+dataset: MTCNN
+no faces from group pictures

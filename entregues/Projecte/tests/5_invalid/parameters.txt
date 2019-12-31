@@ -1,0 +1,5 @@
+batch_size = 4
+epochs = 20
+learning_rate = 0.1
+scheduler = MultiStepLR(optimizer, [5, 10, 15])
+pretrained = none

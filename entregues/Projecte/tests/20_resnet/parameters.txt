@@ -1,0 +1,9 @@
+batch_size = 4
+epochs = 15
+opt_lr = 0.05
+opt_momentum = 0.9
+sch_gamma = 0.15
+sch_step = 3
+
+dataset: MTCNN
+-> 10 classes
